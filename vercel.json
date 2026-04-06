@@ -6,16 +6,10 @@
     "NODE_ENV": "production"
   },
   "functions": {
-    "api/**": {
+    "app/api/**": {
       "memory": 512,
       "maxDuration": 300
     }
-  },
-  "routes": [
-    {
-      "src": "/(?!api)",
-      "dest": "/"
-    }
-  ]
+  }
 }
 
