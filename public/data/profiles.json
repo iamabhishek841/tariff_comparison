@@ -1,0 +1,6522 @@
+[
+  {
+    "id": "2_occ__apartment",
+    "occupancyGroup": "2_occ",
+    "dwellingGroup": "apartment",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0136510211
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0110354214
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0092432036
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0082568905
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0074436988
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0070019579
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.006433645
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0061643065
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0062700825
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0063372121
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0070579438
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0077782209
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.008691333
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.010137997
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0137990776
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.015430273
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0180487382
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0196883985
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.021039465
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0222675804
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0222640027
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.022854087
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0225290915
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0227631009
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0234243578
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0245574368
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0245997991
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0226211377
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0218009008
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0217200247
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0221554007
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0231576057
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0255834265
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.029770471
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.034661358
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0377553283
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0384695662
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0377707396
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0363190416
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0344156407
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0338632549
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0331298431
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0329503795
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0307402806
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0287577201
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0255785318
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0220130285
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0179979775
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0246864425,
+      "1": 0.0175000941,
+      "2": 0.0144456567,
+      "3": 0.0125979515,
+      "4": 0.0126072946,
+      "5": 0.0148361647,
+      "6": 0.01882933,
+      "7": 0.0292293506,
+      "8": 0.0377371367,
+      "9": 0.0433070454,
+      "10": 0.0451180897,
+      "11": 0.0452921924,
+      "12": 0.0479817946,
+      "13": 0.0472209368,
+      "14": 0.0435209255,
+      "15": 0.0453130064,
+      "16": 0.0553538975,
+      "17": 0.0724166863,
+      "18": 0.0762403058,
+      "19": 0.0707346823,
+      "20": 0.066993098,
+      "21": 0.0636906601,
+      "22": 0.0543362519,
+      "23": 0.040011006
+    },
+    "bands": {
+      "day": 0.6958290679,
+      "night": 0.1555139401,
+      "peak": 0.1486569921
+    }
+  },
+  {
+    "id": "2_occ__bungalow",
+    "occupancyGroup": "2_occ",
+    "dwellingGroup": "bungalow",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0135110148
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.010543162
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.008432857
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0072496863
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0064362926
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0060324447
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0055795761
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0053308799
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0054840581
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0055499257
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0060840284
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0066458359
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0078003227
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0092989925
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0131814429
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0157624561
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0188568906
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0205356872
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0219432707
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0230789557
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0231101324
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0237329596
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0234265983
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0237340603
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0247591582
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0257533742
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0254272952
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0233123309
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0223822508
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0218074084
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.022170036
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.023003044
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0254837285
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0295636787
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0345253321
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0371601552
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0381057905
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0377488625
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0360854146
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0344784173
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0337532081
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0332418248
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0333851291
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0312636849
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0292619777
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0260221732
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0220973431
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0178668515
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0240541768,
+      "1": 0.0156825433,
+      "2": 0.0124687373,
+      "3": 0.010910456,
+      "4": 0.0110339838,
+      "5": 0.0127298643,
+      "6": 0.0170993152,
+      "7": 0.028943899,
+      "8": 0.0393925778,
+      "9": 0.0450222264,
+      "10": 0.046843092,
+      "11": 0.0471606586,
+      "12": 0.0505125324,
+      "13": 0.0487396261,
+      "14": 0.0441896592,
+      "15": 0.04517308,
+      "16": 0.0550474072,
+      "17": 0.0716854873,
+      "18": 0.075854653,
+      "19": 0.0705638319,
+      "20": 0.0669950329,
+      "21": 0.064648814,
+      "22": 0.0552841509,
+      "23": 0.0399641946
+    },
+    "bands": {
+      "day": 0.7085165884,
+      "night": 0.1439432713,
+      "peak": 0.1475401403
+    }
+  },
+  {
+    "id": "2_occ__detached",
+    "occupancyGroup": "2_occ",
+    "dwellingGroup": "detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0135163285
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0105228313
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0084422617
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0072584402
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0065216823
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0061444619
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0056888805
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0054939372
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0056412207
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0057263361
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0062328197
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0067525144
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0080340413
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0095853997
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0131479102
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0157493265
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0187057852
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0203294975
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0217487926
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0230180237
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0230450538
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0236989058
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0234222179
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0236460586
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0246242162
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0255943728
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0252064875
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0232142948
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0223796164
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0217845748
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0220932901
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0230383257
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0254300779
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0293604062
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0345584708
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0372470699
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0380064036
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0377419847
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.036114857
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0346768945
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0339164479
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0333355771
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0334062663
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0311870894
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0291893033
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0259417133
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0220121986
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0178673338
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0240391598,
+      "1": 0.0157007019,
+      "2": 0.0126661442,
+      "3": 0.0111828177,
+      "4": 0.0113675568,
+      "5": 0.0129853341,
+      "6": 0.017619441,
+      "7": 0.0288972367,
+      "8": 0.0390352827,
+      "9": 0.0447668163,
+      "10": 0.0467439596,
+      "11": 0.0470682765,
+      "12": 0.050218589,
+      "13": 0.0484207823,
+      "14": 0.0441641912,
+      "15": 0.0451316158,
+      "16": 0.0547904841,
+      "17": 0.0718055407,
+      "18": 0.0757483883,
+      "19": 0.0707917515,
+      "20": 0.067252025,
+      "21": 0.0645933557,
+      "22": 0.0551310166,
+      "23": 0.0398795324
+    },
+    "bands": {
+      "day": 0.707005383,
+      "night": 0.1454406879,
+      "peak": 0.147553929
+    }
+  },
+  {
+    "id": "2_occ__semi_detached",
+    "occupancyGroup": "2_occ",
+    "dwellingGroup": "semi_detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0135533024
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0106239557
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0085657346
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0073859779
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0065346341
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0060711285
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0055958276
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.00531322
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0054061816
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0054829153
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0059080037
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0065792623
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0079777033
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0095430624
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0132946061
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0159677253
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.018493693
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0200924875
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0216640925
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0228631927
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0229565961
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0236719348
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.02341305
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0236058915
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0245352611
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0254130863
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.025200839
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0233157127
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0224667678
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0219093849
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0222526359
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0232068098
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0256862601
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0297299543
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0348837467
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0376170979
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0384891547
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0380679864
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0364532801
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0348677956
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.033955734
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0331596649
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0331648305
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0308641829
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.028857266
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0257245403
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0218221241
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0177917049
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0241772581,
+      "1": 0.0159517125,
+      "2": 0.0126057626,
+      "3": 0.0109090476,
+      "4": 0.0108890969,
+      "5": 0.012487266,
+      "6": 0.0175207657,
+      "7": 0.0292623314,
+      "8": 0.0385861805,
+      "9": 0.0445272852,
+      "10": 0.0466285309,
+      "11": 0.0470189415,
+      "12": 0.0499483474,
+      "13": 0.0485165517,
+      "14": 0.0443761527,
+      "15": 0.0454594457,
+      "16": 0.0554162144,
+      "17": 0.0725008446,
+      "18": 0.0765571411,
+      "19": 0.0713210757,
+      "20": 0.0671153989,
+      "21": 0.0640290134,
+      "22": 0.0545818063,
+      "23": 0.039613829
+    },
+    "bands": {
+      "day": 0.7067872757,
+      "night": 0.1441547384,
+      "peak": 0.1490579857
+    }
+  },
+  {
+    "id": "2_occ__terraced",
+    "occupancyGroup": "2_occ",
+    "dwellingGroup": "terraced",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0137232677
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0108159199
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0086235632
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0074379317
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0065353533
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0060581636
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0055016547
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0052384752
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0053196732
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0053283912
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0057638226
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0062660206
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0076397343
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0093234708
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0131113927
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0157031626
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0183970651
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0201000988
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0218304608
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0230123569
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0230805877
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0237109495
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0235064193
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0238206705
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0249222783
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0260151154
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0256763804
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0236730683
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0228323523
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0221811935
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0225294834
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.023403109
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.025935707
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0299511894
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0349533914
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0374123452
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0380484801
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0377251128
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0361175252
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0345397216
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0336983266
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0329174268
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.033001859
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0306725491
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0287650353
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0255191507
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0217847611
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0178758323
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0245391876,
+      "1": 0.0160614949,
+      "2": 0.0125935169,
+      "3": 0.0107401299,
+      "4": 0.0106480644,
+      "5": 0.0120298432,
+      "6": 0.0169632051,
+      "7": 0.0288145553,
+      "8": 0.0384971639,
+      "9": 0.0448428177,
+      "10": 0.0467915372,
+      "11": 0.0473270898,
+      "12": 0.0509373937,
+      "13": 0.0493494487,
+      "14": 0.0450135458,
+      "15": 0.0459325924,
+      "16": 0.0558868964,
+      "17": 0.0723657366,
+      "18": 0.0757735929,
+      "19": 0.0706572468,
+      "20": 0.0666157534,
+      "21": 0.0636744081,
+      "22": 0.054284186,
+      "23": 0.0396605934
+    },
+    "bands": {
+      "day": 0.7086246352,
+      "night": 0.1432360354,
+      "peak": 0.1481393295
+    }
+  },
+  {
+    "id": "3_occ__apartment",
+    "occupancyGroup": "3_occ",
+    "dwellingGroup": "apartment",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0159909859
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0137783343
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0122137417
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0114012357
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0105621798
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.010055528
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0097897757
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0095921971
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0093593536
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0092696858
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0095833407
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0102186092
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0109087348
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0125087938
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0154962882
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0180981067
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0197978208
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0210002855
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0209224432
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0214061213
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0215805836
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0213789792
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0211079964
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0208868969
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0209800136
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0219435893
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.022729433
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0216519908
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0210027883
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0214314337
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0218428708
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0228516812
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0244877183
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0283499958
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0321909714
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0337155841
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0336443747
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0326753874
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0325202929
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0314761917
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0316620281
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0309871997
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0306070274
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0296177679
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0281801096
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0257093792
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0231443449
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0196898082
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0297693202,
+      "1": 0.0236149774,
+      "2": 0.0206177078,
+      "3": 0.0193819728,
+      "4": 0.0186290394,
+      "5": 0.0198019499,
+      "6": 0.0234175286,
+      "7": 0.0335943949,
+      "8": 0.0407981063,
+      "9": 0.0423285645,
+      "10": 0.0429595628,
+      "11": 0.0419948933,
+      "12": 0.0429236029,
+      "13": 0.0443814238,
+      "14": 0.042434222,
+      "15": 0.044694552,
+      "16": 0.0528377141,
+      "17": 0.0659065555,
+      "18": 0.0663197621,
+      "19": 0.0639964846,
+      "20": 0.0626492278,
+      "21": 0.0602247953,
+      "22": 0.0538894888,
+      "23": 0.0428341531
+    },
+    "bands": {
+      "day": 0.6697070331,
+      "night": 0.1980666492,
+      "peak": 0.1322263176
+    }
+  },
+  {
+    "id": "3_occ__bungalow",
+    "occupancyGroup": "3_occ",
+    "dwellingGroup": "bungalow",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0158509797
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0132860749
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0114033952
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0103940315
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0095547736
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0090860148
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0089357068
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0087587705
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0085733292
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0084823995
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0086094254
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0090862242
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0100177245
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0116697893
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0148786535
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0184302898
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0206059733
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0218475742
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0218262489
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0222174965
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0224267133
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222578518
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0220055032
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0218578563
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.022314814
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0231395267
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0235569291
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.022343184
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0215841383
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0215188174
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0218575061
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0226971196
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0243880203
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0281432035
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0320549455
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.033120411
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.033280599
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0326535103
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0322866658
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0315389683
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0315519813
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0310991814
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0310417771
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0301411722
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0286843672
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0261530205
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0232286594
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0195586822
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0291370546,
+      "1": 0.0217974267,
+      "2": 0.0186407884,
+      "3": 0.0176944773,
+      "4": 0.0170557287,
+      "5": 0.0176956496,
+      "6": 0.0216875138,
+      "7": 0.0333089433,
+      "8": 0.0424535475,
+      "9": 0.0440437454,
+      "10": 0.0446845651,
+      "11": 0.0438633595,
+      "12": 0.0454543407,
+      "13": 0.0459001131,
+      "14": 0.0431029557,
+      "15": 0.0445546257,
+      "16": 0.0525312238,
+      "17": 0.0651753565,
+      "18": 0.0659341093,
+      "19": 0.0638256341,
+      "20": 0.0626511627,
+      "21": 0.0611829493,
+      "22": 0.0548373877,
+      "23": 0.0427873416
+    },
+    "bands": {
+      "day": 0.6823945536,
+      "night": 0.1864959807,
+      "peak": 0.1311094658
+    }
+  },
+  {
+    "id": "3_occ__detached",
+    "occupancyGroup": "3_occ",
+    "dwellingGroup": "detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0158562933
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0132657442
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0114127999
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0104027855
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0096401633
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0091980321
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0090450113
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0089218278
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0087304918
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0086588098
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0087582166
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0091929027
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0102514431
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0119561965
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0148451208
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0184171601
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0204548679
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0216413844
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0216317708
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0221565646
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0223616347
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222237981
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0220011228
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0217698545
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.022179872
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0229805253
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0233361214
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0222451479
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0215815039
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0214959838
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0217807602
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0227324012
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0243343697
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.027939931
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0320880842
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0332073257
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0331812121
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0326466325
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0323161082
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0317374455
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0317152211
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0311929337
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0310629143
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0300645768
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0286116928
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0260725607
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0231435149
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0195591645
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0291220375,
+      "1": 0.0218155854,
+      "2": 0.0188381954,
+      "3": 0.0179668391,
+      "4": 0.0173893016,
+      "5": 0.0179511193,
+      "6": 0.0222076396,
+      "7": 0.0332622809,
+      "8": 0.0420962523,
+      "9": 0.0437883354,
+      "10": 0.0445854328,
+      "11": 0.0437709773,
+      "12": 0.0451603973,
+      "13": 0.0455812693,
+      "14": 0.0430774877,
+      "15": 0.0445131614,
+      "16": 0.0522743007,
+      "17": 0.0652954099,
+      "18": 0.0658278446,
+      "19": 0.0640535537,
+      "20": 0.0629081548,
+      "21": 0.0611274911,
+      "22": 0.0546842535,
+      "23": 0.0427026794
+    },
+    "bands": {
+      "day": 0.6808833482,
+      "night": 0.1879933973,
+      "peak": 0.1311232545
+    }
+  },
+  {
+    "id": "3_occ__semi_detached",
+    "occupancyGroup": "3_occ",
+    "dwellingGroup": "semi_detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0158932672
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0133668686
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0115362727
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0105303232
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0096531152
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0091246986
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0089519583
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0087411106
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0084954527
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.008415389
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0084334006
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0090196506
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0101951052
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0119138592
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0149918167
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0186355589
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0202427756
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0214043745
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0215470708
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0220017336
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.022273177
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.022196827
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0219919548
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0217296875
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0220909169
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0227992388
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0233304729
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0223465658
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0216686553
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0216207939
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.021940106
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0229008854
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0245905519
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0283094791
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0324133601
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0335773537
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0336639632
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0329726342
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0326545314
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0319283466
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0317545072
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0310170216
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0308214785
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0297416703
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0282796555
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0258553876
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0229534404
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0194835356
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0292601358,
+      "1": 0.0220665959,
+      "2": 0.0187778138,
+      "3": 0.0176930689,
+      "4": 0.0169108417,
+      "5": 0.0174530512,
+      "6": 0.0221089644,
+      "7": 0.0336273756,
+      "8": 0.0416471501,
+      "9": 0.0435488044,
+      "10": 0.044470004,
+      "11": 0.0437216423,
+      "12": 0.0448901557,
+      "13": 0.0456770387,
+      "14": 0.0432894492,
+      "15": 0.0448409914,
+      "16": 0.052900031,
+      "17": 0.0659907138,
+      "18": 0.0666365974,
+      "19": 0.064582878,
+      "20": 0.0627715288,
+      "21": 0.0605631488,
+      "22": 0.0541350431,
+      "23": 0.042436976
+    },
+    "bands": {
+      "day": 0.6806652411,
+      "night": 0.1867074477,
+      "peak": 0.1326273112
+    }
+  },
+  {
+    "id": "3_occ__terraced",
+    "occupancyGroup": "3_occ",
+    "dwellingGroup": "terraced",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0160632325
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0135588328
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0115941013
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0105822769
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0096538344
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0091117337
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0088577854
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0086663657
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0084089443
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0082608649
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0082892195
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0087064089
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0098571361
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0116942676
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0148086033
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0183709962
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0201461478
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0214119857
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0217134391
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0221508977
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0223971686
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222358418
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0220853241
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0219444665
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0224779342
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0234012679
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0238060143
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0227039215
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0220342398
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0218926024
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0222169534
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0230971845
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0248399988
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0285307142
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0324830049
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.033372601
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0332232886
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0326297606
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0323187764
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0316002726
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0314970998
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0307747835
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.030658507
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0295500364
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0281874248
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0256499981
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0229160774
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0195676629
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0296220653,
+      "1": 0.0221763782,
+      "2": 0.0187655681,
+      "3": 0.0175241511,
+      "4": 0.0166698092,
+      "5": 0.0169956284,
+      "6": 0.0215514037,
+      "7": 0.0331795995,
+      "8": 0.0415581335,
+      "9": 0.0438643368,
+      "10": 0.0446330104,
+      "11": 0.0440297906,
+      "12": 0.0458792021,
+      "13": 0.0465099358,
+      "14": 0.0439268422,
+      "15": 0.0453141379,
+      "16": 0.053370713,
+      "17": 0.0658556059,
+      "18": 0.0658530492,
+      "19": 0.063919049,
+      "20": 0.0622718833,
+      "21": 0.0602085434,
+      "22": 0.0538374229,
+      "23": 0.0424837403
+    },
+    "bands": {
+      "day": 0.6825026004,
+      "night": 0.1857887443,
+      "peak": 0.1317086551
+    }
+  },
+  {
+    "id": "4_occ__apartment",
+    "occupancyGroup": "4_occ",
+    "dwellingGroup": "apartment",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0125823609
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0100345664
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0082594226
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0071683879
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0064847337
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.005962272
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0055061746
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0054675798
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0054403457
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0055250463
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0060072552
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0065025918
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0080275498
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0091922868
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0129932867
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.014872255
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0171589945
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0179301345
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0191064898
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0205516961
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0210712309
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0217425418
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0224246933
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0226236718
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.024245062
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0260139942
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0251438791
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.023195244
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0216270751
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0217687228
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0220721746
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.023388625
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0258762989
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0307981747
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0362647049
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0401679701
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0406768965
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0390132398
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0381443886
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0367688752
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0362510489
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0352252565
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.034233729
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0323504737
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.029588539
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0258569
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.021783263
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0169098965
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0226169273,
+      "1": 0.0154278105,
+      "2": 0.0124470057,
+      "3": 0.0109737544,
+      "4": 0.010965392,
+      "5": 0.012509847,
+      "6": 0.0172198366,
+      "7": 0.0278655417,
+      "8": 0.035089129,
+      "9": 0.0396581859,
+      "10": 0.0428137727,
+      "11": 0.0450483651,
+      "12": 0.0502590562,
+      "13": 0.0483391231,
+      "14": 0.0433957979,
+      "15": 0.0454607996,
+      "16": 0.0566744736,
+      "17": 0.076432675,
+      "18": 0.0796901363,
+      "19": 0.0749132638,
+      "20": 0.0714763054,
+      "21": 0.0665842027,
+      "22": 0.055445439,
+      "23": 0.0386931595
+    },
+    "bands": {
+      "day": 0.7030234557,
+      "night": 0.140853733,
+      "peak": 0.1561228113
+    }
+  },
+  {
+    "id": "4_occ__bungalow",
+    "occupancyGroup": "4_occ",
+    "dwellingGroup": "bungalow",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0124423547
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.009542307
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0074490761
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0061611837
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0054773275
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0049927588
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0046521057
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0046341532
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0046543213
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0047377599
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0050333399
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0053702068
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0071365395
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0083532822
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.012375652
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0152044381
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.017967147
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0187774232
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0200102954
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0213630714
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0219173606
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0226214144
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0233222001
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0235946312
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0255798625
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0272099316
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0259713752
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0238864372
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0222084251
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0218561065
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0220868099
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0232340633
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0257766008
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0305913824
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.036128679
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.039572797
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0403131208
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0389913628
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0379107616
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0368316518
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0361410022
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0353372383
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0346684786
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0328738781
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0300927966
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0263005413
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0218675776
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0167787705
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0219846617,
+      "1": 0.0136102598,
+      "2": 0.0104700863,
+      "3": 0.0092862589,
+      "4": 0.0093920812,
+      "5": 0.0104035467,
+      "6": 0.0154898217,
+      "7": 0.0275800901,
+      "8": 0.0367445702,
+      "9": 0.0413733668,
+      "10": 0.044538775,
+      "11": 0.0469168313,
+      "12": 0.0527897941,
+      "13": 0.0498578124,
+      "14": 0.0440645316,
+      "15": 0.0453208732,
+      "16": 0.0563679832,
+      "17": 0.075701476,
+      "18": 0.0793044836,
+      "19": 0.0747424134,
+      "20": 0.0714782405,
+      "21": 0.0675423567,
+      "22": 0.0563933379,
+      "23": 0.0386463481
+    },
+    "bands": {
+      "day": 0.7157109764,
+      "night": 0.1292830644,
+      "peak": 0.1550059596
+    }
+  },
+  {
+    "id": "4_occ__detached",
+    "occupancyGroup": "4_occ",
+    "dwellingGroup": "detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0124476683
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0095219763
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0074584808
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0061699377
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0055627172
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.005104776
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0047614101
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0047972105
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0048114839
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0049141703
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0051821312
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0054768853
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0073702581
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0086396895
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0123421193
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0151913084
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0178160416
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0185712334
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0198158174
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0213021395
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.021852282
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0225873606
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0233178197
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0235066294
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0254449204
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0270509302
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0257505676
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0237884011
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0222057907
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0218332728
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.022010064
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.023269345
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0257229502
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0303881098
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0361618177
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0396597117
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0402137339
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0389844849
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.037940204
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.037030129
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0363042419
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0354309905
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0346896158
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0327972826
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0300201222
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0262200815
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.021782433
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0167792528
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0219696446,
+      "1": 0.0136284185,
+      "2": 0.0106674932,
+      "3": 0.0095586206,
+      "4": 0.0097256542,
+      "5": 0.0106590165,
+      "6": 0.0160099476,
+      "7": 0.0275334277,
+      "8": 0.036387275,
+      "9": 0.0411179569,
+      "10": 0.0444396426,
+      "11": 0.0468244491,
+      "12": 0.0524958506,
+      "13": 0.0495389687,
+      "14": 0.0440390635,
+      "15": 0.045279409,
+      "16": 0.05611106,
+      "17": 0.0758215294,
+      "18": 0.0791982188,
+      "19": 0.074970333,
+      "20": 0.0717352324,
+      "21": 0.0674868984,
+      "22": 0.0562402037,
+      "23": 0.0385616858
+    },
+    "bands": {
+      "day": 0.7141997706,
+      "night": 0.130780481,
+      "peak": 0.1550197482
+    }
+  },
+  {
+    "id": "4_occ__semi_detached",
+    "occupancyGroup": "4_occ",
+    "dwellingGroup": "semi_detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0124846422
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0096231007
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0075819536
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0062974754
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0055756691
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0050314426
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0046683571
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0046164933
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0045764448
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0046707495
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0048573151
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0053036332
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0073139201
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0085973521
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0124888151
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0154097072
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0176039493
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0183342235
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0197311173
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0211473084
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0217638243
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0225603896
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0233086517
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0234664624
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0253559653
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0268696437
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.025744919
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.023889819
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0222929421
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0219580829
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0221694098
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0234378292
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0259791324
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.030757658
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0364870936
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0400297397
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.040696485
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0393104866
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0382786272
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0372210302
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.036343528
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0352550784
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.03444818
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0324743761
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0296880849
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0260029084
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0215923586
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0167036239
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0221077429,
+      "1": 0.013879429,
+      "2": 0.0106071117,
+      "3": 0.0092848504,
+      "4": 0.0092471943,
+      "5": 0.0101609483,
+      "6": 0.0159112722,
+      "7": 0.0278985223,
+      "8": 0.0359381728,
+      "9": 0.0408784257,
+      "10": 0.0443242139,
+      "11": 0.0467751141,
+      "12": 0.052225609,
+      "13": 0.049634738,
+      "14": 0.044251025,
+      "15": 0.045607239,
+      "16": 0.0567367904,
+      "17": 0.0765168333,
+      "18": 0.0800069716,
+      "19": 0.0754996574,
+      "20": 0.0715986064,
+      "21": 0.0669225561,
+      "22": 0.0556909933,
+      "23": 0.0382959825
+    },
+    "bands": {
+      "day": 0.7139816634,
+      "night": 0.1294945313,
+      "peak": 0.1565238049
+    }
+  },
+  {
+    "id": "4_occ__terraced",
+    "occupancyGroup": "4_occ",
+    "dwellingGroup": "terraced",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0126546075
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0098150649
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0076397822
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0063494291
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0055763883
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0050184777
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0045741842
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0045417484
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0044899364
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0045162254
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0047131341
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0049903915
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0069759511
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0083777605
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0123056017
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0151451445
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0175073214
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0183418347
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0198974856
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0212964726
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0218878159
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0225994043
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0234020211
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0236812413
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0257429826
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0274716728
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0262204605
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0242471747
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0226585266
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0222298915
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0224462573
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0236341283
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0262285794
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0309788931
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0365567384
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.039824987
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0402558104
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0389676131
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0379428722
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0368929561
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0360861206
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0350128403
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0342852085
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0322827422
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0295958542
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0257975189
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0215549956
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0167877512
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0224696724,
+      "1": 0.0139892113,
+      "2": 0.010594866,
+      "3": 0.0091159326,
+      "4": 0.0090061618,
+      "5": 0.0097035256,
+      "6": 0.0153537116,
+      "7": 0.0274507462,
+      "8": 0.0358491561,
+      "9": 0.0411939582,
+      "10": 0.0444872202,
+      "11": 0.0470832624,
+      "12": 0.0532146554,
+      "13": 0.0504676352,
+      "14": 0.0448884181,
+      "15": 0.0460803856,
+      "16": 0.0572074725,
+      "17": 0.0763817254,
+      "18": 0.0792234235,
+      "19": 0.0748358283,
+      "20": 0.0710989609,
+      "21": 0.0665679507,
+      "22": 0.0553933731,
+      "23": 0.0383427468
+    },
+    "bands": {
+      "day": 0.7158190229,
+      "night": 0.1285758281,
+      "peak": 0.1556051489
+    }
+  },
+  {
+    "id": "5_occ__apartment",
+    "occupancyGroup": "5_occ",
+    "dwellingGroup": "apartment",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0127919093
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0103272018
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0086058533
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0075151655
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0066537449
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0061165399
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0056459514
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0054090903
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0053513678
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0054969621
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0059318688
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0065694692
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.008237433
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.010386688
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0130578014
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0155573174
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0172336815
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0184722962
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0189970654
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0200628482
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0209234432
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0213656098
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0220944102
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0224057052
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0238090984
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0249540998
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0246727914
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.023078089
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0223615274
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0224229215
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0227858389
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0240870399
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0266314044
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0318965653
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0378895997
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0416293744
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0411730384
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0393105185
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0379152332
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0364169527
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0351242746
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.034189141
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0329929409
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0307494674
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0284592778
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0247267968
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0209191006
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0165954842
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0231191111,
+      "1": 0.0161210188,
+      "2": 0.0127702848,
+      "3": 0.0110550417,
+      "4": 0.0108483299,
+      "5": 0.012501338,
+      "6": 0.018624121,
+      "7": 0.0286151188,
+      "8": 0.0357059777,
+      "9": 0.0390599136,
+      "10": 0.042289053,
+      "11": 0.0445001154,
+      "12": 0.0487631982,
+      "13": 0.0477508804,
+      "14": 0.0447844489,
+      "15": 0.0468728788,
+      "16": 0.0585279697,
+      "17": 0.0795189741,
+      "18": 0.0804835569,
+      "19": 0.0743321859,
+      "20": 0.0693134156,
+      "21": 0.0637424083,
+      "22": 0.0531860746,
+      "23": 0.0375145848
+    },
+    "bands": {
+      "day": 0.6974436389,
+      "night": 0.1425538301,
+      "peak": 0.160002531
+    }
+  },
+  {
+    "id": "5_occ__bungalow",
+    "occupancyGroup": "5_occ",
+    "dwellingGroup": "bungalow",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.012651903
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0098349424
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0077955067
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0065079613
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0056463387
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0051470267
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0047918825
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0045756637
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0045653434
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0047096757
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0049579534
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0054370842
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0073464226
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0095476835
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0124401667
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0158895005
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0180418339
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0193195849
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0199008711
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0208742235
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0217695728
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222444824
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.022991917
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0233766647
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0251438988
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0261500373
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0255002875
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0237692821
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0229428774
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0225103052
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0228004742
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0239324783
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0265317063
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.031689773
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0377535738
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0410342013
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0408092627
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0392886415
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0376816062
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0364797293
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0350142278
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0343011227
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0334276906
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0312728717
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0289635354
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0251704382
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0210034152
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0164643582
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0224868454,
+      "1": 0.014303468,
+      "2": 0.0107933654,
+      "3": 0.0093675462,
+      "4": 0.0092750191,
+      "5": 0.0103950376,
+      "6": 0.0168941061,
+      "7": 0.0283296672,
+      "8": 0.0373614188,
+      "9": 0.0407750946,
+      "10": 0.0440140552,
+      "11": 0.0463685817,
+      "12": 0.0512939361,
+      "13": 0.0492695696,
+      "14": 0.0454531826,
+      "15": 0.0467329525,
+      "16": 0.0582214793,
+      "17": 0.0787877751,
+      "18": 0.0800979042,
+      "19": 0.0741613355,
+      "20": 0.0693153505,
+      "21": 0.0647005623,
+      "22": 0.0541339736,
+      "23": 0.0374677734
+    },
+    "bands": {
+      "day": 0.7101311595,
+      "night": 0.1309831612,
+      "peak": 0.1588856793
+    }
+  },
+  {
+    "id": "5_occ__detached",
+    "occupancyGroup": "5_occ",
+    "dwellingGroup": "detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0126572167
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0098146118
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0078049114
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0065167153
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0057317284
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0052590439
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.004901187
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.004738721
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.004722506
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0048860861
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0051067447
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0055437627
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0075801412
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0098340907
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.012406634
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0158763708
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0178907286
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0191133951
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.019706393
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0208132915
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0217044942
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222104287
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0229875366
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0232886629
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0250089568
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0259910358
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0252794798
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0236712461
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0229402431
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0224874716
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0227237283
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0239677599
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0264780557
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0314865005
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0377867125
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.041121116
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0407098758
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0392817636
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0377110486
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0366782065
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0351774676
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.034394875
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0334488278
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0311962762
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.028890861
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0250899784
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0209182706
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0164648405
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0224718285,
+      "1": 0.0143216267,
+      "2": 0.0109907723,
+      "3": 0.009639908,
+      "4": 0.0096085921,
+      "5": 0.0106505074,
+      "6": 0.0174142319,
+      "7": 0.0282830048,
+      "8": 0.0370041237,
+      "9": 0.0405196845,
+      "10": 0.0439149229,
+      "11": 0.0462761995,
+      "12": 0.0509999926,
+      "13": 0.0489507259,
+      "14": 0.0454277147,
+      "15": 0.0466914882,
+      "16": 0.0579645562,
+      "17": 0.0789078285,
+      "18": 0.0799916394,
+      "19": 0.0743892551,
+      "20": 0.0695723426,
+      "21": 0.064645104,
+      "22": 0.0539808394,
+      "23": 0.0373831111
+    },
+    "bands": {
+      "day": 0.7086199541,
+      "night": 0.132480578,
+      "peak": 0.1588994679
+    }
+  },
+  {
+    "id": "5_occ__semi_detached",
+    "occupancyGroup": "5_occ",
+    "dwellingGroup": "semi_detached",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0126941906
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0099157361
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0079283843
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.006644253
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0057446802
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0051857105
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.004808134
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.0045580038
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0044874669
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0046426653
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0047819287
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0053705106
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0075238033
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0097917534
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0125533298
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0160947696
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0176786363
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0188763852
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0196216929
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0206584605
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0216160365
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0221834576
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.0229783687
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0232484959
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.0249200017
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0258097493
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0252738313
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.023772664
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.0230273944
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0226122817
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0228830741
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0241362441
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0267342379
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0318560486
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0381119884
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.041491144
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0411926269
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0396077653
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0380494718
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0368691076
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0352167537
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0342189629
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.033207392
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0308733697
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.0285588237
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0248728053
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0207281962
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0163892116
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0226099267,
+      "1": 0.0145726373,
+      "2": 0.0109303907,
+      "3": 0.0093661378,
+      "4": 0.0091301322,
+      "5": 0.0101524393,
+      "6": 0.0173155567,
+      "7": 0.0286480994,
+      "8": 0.0365550215,
+      "9": 0.0402801534,
+      "10": 0.0437994941,
+      "11": 0.0462268646,
+      "12": 0.050729751,
+      "13": 0.0490464953,
+      "14": 0.0456396761,
+      "15": 0.0470193182,
+      "16": 0.0585902865,
+      "17": 0.0796031324,
+      "18": 0.0808003922,
+      "19": 0.0749185794,
+      "20": 0.0694357166,
+      "21": 0.0640807617,
+      "22": 0.053431629,
+      "23": 0.0371174078
+    },
+    "bands": {
+      "day": 0.7084018468,
+      "night": 0.1311946285,
+      "peak": 0.1604035246
+    }
+  },
+  {
+    "id": "5_occ__terraced",
+    "occupancyGroup": "5_occ",
+    "dwellingGroup": "terraced",
+    "slots": [
+      {
+        "slot": 1,
+        "timeLabel": "00:00",
+        "tariffBand": "night",
+        "share": 0.0128641559
+      },
+      {
+        "slot": 2,
+        "timeLabel": "00:30",
+        "tariffBand": "night",
+        "share": 0.0101077004
+      },
+      {
+        "slot": 3,
+        "timeLabel": "01:00",
+        "tariffBand": "night",
+        "share": 0.0079862129
+      },
+      {
+        "slot": 4,
+        "timeLabel": "01:30",
+        "tariffBand": "night",
+        "share": 0.0066962067
+      },
+      {
+        "slot": 5,
+        "timeLabel": "02:00",
+        "tariffBand": "night",
+        "share": 0.0057453995
+      },
+      {
+        "slot": 6,
+        "timeLabel": "02:30",
+        "tariffBand": "night",
+        "share": 0.0051727456
+      },
+      {
+        "slot": 7,
+        "timeLabel": "03:00",
+        "tariffBand": "night",
+        "share": 0.0047139611
+      },
+      {
+        "slot": 8,
+        "timeLabel": "03:30",
+        "tariffBand": "night",
+        "share": 0.004483259
+      },
+      {
+        "slot": 9,
+        "timeLabel": "04:00",
+        "tariffBand": "night",
+        "share": 0.0044009586
+      },
+      {
+        "slot": 10,
+        "timeLabel": "04:30",
+        "tariffBand": "night",
+        "share": 0.0044881412
+      },
+      {
+        "slot": 11,
+        "timeLabel": "05:00",
+        "tariffBand": "night",
+        "share": 0.0046377476
+      },
+      {
+        "slot": 12,
+        "timeLabel": "05:30",
+        "tariffBand": "night",
+        "share": 0.0050572689
+      },
+      {
+        "slot": 13,
+        "timeLabel": "06:00",
+        "tariffBand": "night",
+        "share": 0.0071858343
+      },
+      {
+        "slot": 14,
+        "timeLabel": "06:30",
+        "tariffBand": "night",
+        "share": 0.0095721618
+      },
+      {
+        "slot": 15,
+        "timeLabel": "07:00",
+        "tariffBand": "day",
+        "share": 0.0123701164
+      },
+      {
+        "slot": 16,
+        "timeLabel": "07:30",
+        "tariffBand": "day",
+        "share": 0.0158302069
+      },
+      {
+        "slot": 17,
+        "timeLabel": "08:00",
+        "tariffBand": "day",
+        "share": 0.0175820084
+      },
+      {
+        "slot": 18,
+        "timeLabel": "08:30",
+        "tariffBand": "day",
+        "share": 0.0188839964
+      },
+      {
+        "slot": 19,
+        "timeLabel": "09:00",
+        "tariffBand": "day",
+        "share": 0.0197880612
+      },
+      {
+        "slot": 20,
+        "timeLabel": "09:30",
+        "tariffBand": "day",
+        "share": 0.0208076247
+      },
+      {
+        "slot": 21,
+        "timeLabel": "10:00",
+        "tariffBand": "day",
+        "share": 0.0217400281
+      },
+      {
+        "slot": 22,
+        "timeLabel": "10:30",
+        "tariffBand": "day",
+        "share": 0.0222224724
+      },
+      {
+        "slot": 23,
+        "timeLabel": "11:00",
+        "tariffBand": "day",
+        "share": 0.023071738
+      },
+      {
+        "slot": 24,
+        "timeLabel": "11:30",
+        "tariffBand": "day",
+        "share": 0.0234632748
+      },
+      {
+        "slot": 25,
+        "timeLabel": "12:00",
+        "tariffBand": "day",
+        "share": 0.025307019
+      },
+      {
+        "slot": 26,
+        "timeLabel": "12:30",
+        "tariffBand": "day",
+        "share": 0.0264117785
+      },
+      {
+        "slot": 27,
+        "timeLabel": "13:00",
+        "tariffBand": "day",
+        "share": 0.0257493727
+      },
+      {
+        "slot": 28,
+        "timeLabel": "13:30",
+        "tariffBand": "day",
+        "share": 0.0241300196
+      },
+      {
+        "slot": 29,
+        "timeLabel": "14:00",
+        "tariffBand": "day",
+        "share": 0.023392979
+      },
+      {
+        "slot": 30,
+        "timeLabel": "14:30",
+        "tariffBand": "day",
+        "share": 0.0228840903
+      },
+      {
+        "slot": 31,
+        "timeLabel": "15:00",
+        "tariffBand": "day",
+        "share": 0.0231599216
+      },
+      {
+        "slot": 32,
+        "timeLabel": "15:30",
+        "tariffBand": "day",
+        "share": 0.0243325432
+      },
+      {
+        "slot": 33,
+        "timeLabel": "16:00",
+        "tariffBand": "day",
+        "share": 0.0269836849
+      },
+      {
+        "slot": 34,
+        "timeLabel": "16:30",
+        "tariffBand": "day",
+        "share": 0.0320772837
+      },
+      {
+        "slot": 35,
+        "timeLabel": "17:00",
+        "tariffBand": "peak",
+        "share": 0.0381816331
+      },
+      {
+        "slot": 36,
+        "timeLabel": "17:30",
+        "tariffBand": "peak",
+        "share": 0.0412863913
+      },
+      {
+        "slot": 37,
+        "timeLabel": "18:00",
+        "tariffBand": "peak",
+        "share": 0.0407519523
+      },
+      {
+        "slot": 38,
+        "timeLabel": "18:30",
+        "tariffBand": "peak",
+        "share": 0.0392648918
+      },
+      {
+        "slot": 39,
+        "timeLabel": "19:00",
+        "tariffBand": "day",
+        "share": 0.0377137168
+      },
+      {
+        "slot": 40,
+        "timeLabel": "19:30",
+        "tariffBand": "day",
+        "share": 0.0365410336
+      },
+      {
+        "slot": 41,
+        "timeLabel": "20:00",
+        "tariffBand": "day",
+        "share": 0.0349593463
+      },
+      {
+        "slot": 42,
+        "timeLabel": "20:30",
+        "tariffBand": "day",
+        "share": 0.0339767248
+      },
+      {
+        "slot": 43,
+        "timeLabel": "21:00",
+        "tariffBand": "day",
+        "share": 0.0330444205
+      },
+      {
+        "slot": 44,
+        "timeLabel": "21:30",
+        "tariffBand": "day",
+        "share": 0.0306817359
+      },
+      {
+        "slot": 45,
+        "timeLabel": "22:00",
+        "tariffBand": "day",
+        "share": 0.028466593
+      },
+      {
+        "slot": 46,
+        "timeLabel": "22:30",
+        "tariffBand": "day",
+        "share": 0.0246674158
+      },
+      {
+        "slot": 47,
+        "timeLabel": "23:00",
+        "tariffBand": "night",
+        "share": 0.0206908331
+      },
+      {
+        "slot": 48,
+        "timeLabel": "23:30",
+        "tariffBand": "night",
+        "share": 0.0164733389
+      }
+    ],
+    "hourlyShares": {
+      "0": 0.0229718563,
+      "1": 0.0146824196,
+      "2": 0.0109181451,
+      "3": 0.0091972201,
+      "4": 0.0088890998,
+      "5": 0.0096950165,
+      "6": 0.0167579961,
+      "7": 0.0282003233,
+      "8": 0.0364660048,
+      "9": 0.0405956859,
+      "10": 0.0439625005,
+      "11": 0.0465350128,
+      "12": 0.0517187975,
+      "13": 0.0498793923,
+      "14": 0.0462770693,
+      "15": 0.0474924648,
+      "16": 0.0590609686,
+      "17": 0.0794680244,
+      "18": 0.0800168441,
+      "19": 0.0742547504,
+      "20": 0.0689360711,
+      "21": 0.0637261564,
+      "22": 0.0531340088,
+      "23": 0.037164172
+    },
+    "bands": {
+      "day": 0.7102392065,
+      "night": 0.1302759255,
+      "peak": 0.1594848685
+    }
+  }
+]

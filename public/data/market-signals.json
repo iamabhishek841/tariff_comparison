@@ -1,0 +1,170 @@
+[
+  {
+    "hour": 0,
+    "damPrice": 0.09919,
+    "settlementPrice": 0.09156,
+    "spread": -0.00763,
+    "volatility": 0.0
+  },
+  {
+    "hour": 1,
+    "damPrice": 0.0981,
+    "settlementPrice": 0.09047,
+    "spread": -0.00763,
+    "volatility": 0.0
+  },
+  {
+    "hour": 2,
+    "damPrice": 0.09483,
+    "settlementPrice": 0.09701,
+    "spread": 0.00218,
+    "volatility": 0.005664
+  },
+  {
+    "hour": 3,
+    "damPrice": 0.09374,
+    "settlementPrice": 0.0981,
+    "spread": 0.00436,
+    "volatility": 0.006387
+  },
+  {
+    "hour": 4,
+    "damPrice": 0.09265,
+    "settlementPrice": 0.0981,
+    "spread": 0.00545,
+    "volatility": 0.001665
+  },
+  {
+    "hour": 5,
+    "damPrice": 0.09265,
+    "settlementPrice": 0.10028,
+    "spread": 0.00763,
+    "volatility": 0.001665
+  },
+  {
+    "hour": 6,
+    "damPrice": 0.09156,
+    "settlementPrice": 0.09592,
+    "spread": 0.00436,
+    "volatility": 0.001665
+  },
+  {
+    "hour": 7,
+    "damPrice": 0.09047,
+    "settlementPrice": 0.09047,
+    "spread": 0.0,
+    "volatility": 0.003828
+  },
+  {
+    "hour": 8,
+    "damPrice": 0.09047,
+    "settlementPrice": 0.0872,
+    "spread": -0.00327,
+    "volatility": 0.003828
+  },
+  {
+    "hour": 9,
+    "damPrice": 0.08938,
+    "settlementPrice": 0.08938,
+    "spread": 0.0,
+    "volatility": 0.001888
+  },
+  {
+    "hour": 10,
+    "damPrice": 0.09265,
+    "settlementPrice": 0.09265,
+    "spread": 0.0,
+    "volatility": 0.001888
+  },
+  {
+    "hour": 11,
+    "damPrice": 0.09374,
+    "settlementPrice": 0.08938,
+    "spread": -0.00436,
+    "volatility": 0.002517
+  },
+  {
+    "hour": 12,
+    "damPrice": 0.109,
+    "settlementPrice": 0.09047,
+    "spread": -0.01853,
+    "volatility": 0.009688
+  },
+  {
+    "hour": 13,
+    "damPrice": 0.11227,
+    "settlementPrice": 0.09919,
+    "spread": -0.01308,
+    "volatility": 0.007148
+  },
+  {
+    "hour": 14,
+    "damPrice": 0.12753,
+    "settlementPrice": 0.12317,
+    "spread": -0.00436,
+    "volatility": 0.007148
+  },
+  {
+    "hour": 15,
+    "damPrice": 0.13407,
+    "settlementPrice": 0.12644,
+    "spread": -0.00763,
+    "volatility": 0.004405
+  },
+  {
+    "hour": 16,
+    "damPrice": 0.13952,
+    "settlementPrice": 0.12317,
+    "spread": -0.01635,
+    "volatility": 0.006198
+  },
+  {
+    "hour": 17,
+    "damPrice": 0.14061,
+    "settlementPrice": 0.12862,
+    "spread": -0.01199,
+    "volatility": 0.00436
+  },
+  {
+    "hour": 18,
+    "damPrice": 0.13516,
+    "settlementPrice": 0.13516,
+    "spread": 0.0,
+    "volatility": 0.008467
+  },
+  {
+    "hour": 19,
+    "damPrice": 0.13516,
+    "settlementPrice": 0.13407,
+    "spread": -0.00109,
+    "volatility": 0.00663
+  },
+  {
+    "hour": 20,
+    "damPrice": 0.12208,
+    "settlementPrice": 0.13625,
+    "spread": 0.01417,
+    "volatility": 0.008513
+  },
+  {
+    "hour": 21,
+    "damPrice": 0.12099,
+    "settlementPrice": 0.12971,
+    "spread": 0.00872,
+    "volatility": 0.007733
+  },
+  {
+    "hour": 22,
+    "damPrice": 0.11118,
+    "settlementPrice": 0.12426,
+    "spread": 0.01308,
+    "volatility": 0.002884
+  },
+  {
+    "hour": 23,
+    "damPrice": 0.11009,
+    "settlementPrice": 0.1199,
+    "spread": 0.00981,
+    "volatility": 0.002269
+  }
+]
