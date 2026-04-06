@@ -43,3 +43,7 @@ Thumbs.db
 # Project specific
 dev-output.txt
 dev-server.log
+
+# IMPORTANT: Data folder is NOT ignored - it contains required files for the app
+# Make sure /data folder is always committed to git
+# These files are essential for both local development and Vercel deployment

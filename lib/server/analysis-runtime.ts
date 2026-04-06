@@ -41,18 +41,20 @@ async function ensureDatasetAsync(): Promise<DatasetCache> {
       const cwd = process.cwd()
       console.info(`[analysis-runtime] START - process.cwd(): ${cwd}`)
 
-      // Check files exist
-      const requiredFiles = [LOAD_PROFILE_FILE, TARIFF_FILE, MARKET_FILE]
-      for (const filename of requiredFiles) {
-        try {
-          console.info(`[analysis-runtime] Checking file: ${filename}`)
-          const filePath = getProjectFilePath(filename)
-          console.info(`[analysis-runtime] ✓ ${filename} found at ${filePath}`)
-        } catch (e) {
-          console.error(`[analysis-runtime] ✗ ${filename} NOT found:`, e instanceof Error ? e.message : String(e))
-          throw new Error(`Required file missing: ${filename}`)
-        }
-      }
+       // Check files exist
+       const requiredFiles = [LOAD_PROFILE_FILE, TARIFF_FILE, MARKET_FILE]
+       for (const filename of requiredFiles) {
+         try {
+           console.info(`[analysis-runtime] Checking file: ${filename}`)
+           const filePath = getProjectFilePath(filename)
+           console.info(`[analysis-runtime] ✓ ${filename} found at ${filePath}`)
+         } catch (e) {
+           const errorMsg = e instanceof Error ? e.message : String(e)
+           console.error(`[analysis-runtime] ✗ ${filename} NOT found`)
+           console.error(`[analysis-runtime] Error details:`, errorMsg)
+           throw new Error(`Required file missing: ${filename}\n\n${errorMsg}`)
+         }
+       }
 
       // Parse files with detailed logging
       console.info(`[analysis-runtime] Parsing ${LOAD_PROFILE_FILE}...`)
